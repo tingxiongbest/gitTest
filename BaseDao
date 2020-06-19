@@ -1,2 +1,3 @@
 public getMax("master2");
+public getMax("test2");
 public getMin();
